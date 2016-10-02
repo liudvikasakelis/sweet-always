@@ -1,4 +1,4 @@
 # sweet-always
-test repo for getting to know git
--> added from my home PC
-\n I carry on
+* test repo for getting to know git
+* -> added from my home PC
+* \n I carry on
